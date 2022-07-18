@@ -1,5 +1,5 @@
 body{
-  background-color: #d2d2d2 url('imagens/fundo.png');
+  background: #d2d2d2 url('imagens/fundo.png');
     font: 16px Arial, Helvetica, sans-serif;
 }
 
